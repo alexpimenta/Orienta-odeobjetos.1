@@ -13,4 +13,4 @@
 
 ## Enfim, obrigado por ler até aqui, sempre tentando melhorar meus projetos, não foi o primeiro e nem será o ultimo, muito obrigado!
 
-![Imagem de um personagem de ficção japonesa fazendo um jóia com a mão]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcriticalhits.com.br%2Fanime%2Fafinal-por-que-rock-lee-nao-pode-usar-ninjutsu-em-naruto%2F&psig=AOvVaw170WmC6twI8VYZyiLIRaAy&ust=1713567084281000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCU6v3szIUDFQAAAAAdAAAAABAI))
+![Imagem de um personagem de ficção japonesa fazendo um jóia com a mão](https://i.imgur.com/iT9yEjn.png)
