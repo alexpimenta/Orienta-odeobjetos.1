@@ -7,7 +7,7 @@
 ## antes de tudo, também rodamos o programa no node para ter uma atualização constante e ver nossos erros aprendendo a debugar o projeto, foi bem divertido, as versões estão no arquivos Json, espero que gostem!
 
 ## estou ainda aprendendo a fazer uma boa documentação, essa foi a minha primeira de muitas, mas espero ter ajudado vocês de alguma forma, caso tenham alguma dúvida de como fazer esse projeto ou de rodar ele, para ver todas as funções eu ensino à vocês apenas seguir no email abaixo
-#alexjudogc@gmail.com
+# alexjudogc@gmail.com
 
 
 
